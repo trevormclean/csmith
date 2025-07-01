@@ -1,3 +1,9 @@
+# About This Fork
+
+This repository is a fork of Csmith which hopes to extend Csmith's abilities to
+include testing of compile time features of C++, namely consteval, constexpr, and constinit.
+
+
 # ![](./csmith.png)
 
 ## About
